@@ -3,8 +3,13 @@ content_type: resource
 description: This resource includes information on effect of mutations and selection
   on allele frequency, mean time to fixation or loss, and testing neutrality of human
   SNPs.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-508-quantitative-genomics-fall-2005/f6985ca428582a59cd200d7fddf167b4_ps1.pdf
+file: /media/courses/hst-508-quantitative-genomics-fall-2005/f6985ca428582a59cd200d7fddf167b4_ps1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps1.pdf
 uid: f6985ca4-2858-2a59-cd20-0d7fddf167b4
