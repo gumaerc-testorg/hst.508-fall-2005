@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: The reading section include required and recommended readings for this
+  course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: d885c757-9fab-85f1-d8dc-980d9ddca28e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Recommended Texts and Articles

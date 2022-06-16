@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: The project section includes one final project and three project assignments
+  by professors.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
 title: Projects
 uid: ea7058b2-bf41-d9ce-ea68-92fd8e492a08
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Final Project Assignments

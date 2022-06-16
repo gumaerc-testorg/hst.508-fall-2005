@@ -1,9 +1,16 @@
 ---
 content_type: page
+description: The syllabus section contains course overview, assignment, grading criteria,
+  and description of four modules i.e. evolutionary and population genetics, comparative
+  genomics structural genomics and Proteomics, and functional genomics and networks.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: c1bd228c-5b0f-cf2d-9021-b51c56d27c95
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times

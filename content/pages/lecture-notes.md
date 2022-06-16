@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: The lecture notes section inlcudes files and handout associated with
+  the respective lectures.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: d8caf4b5-65f9-9b6e-1c0f-342dc94199df
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -25,7 +31,7 @@ TOPICS
 L0
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction - _Prof. Leonid Mirny_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8 MB]({{< baseurl >}}/resources/lecture0))
+Introduction - _Prof. Leonid Mirny_ ({{% resource_link c1ea2b21-f705-9e7b-86c9-44072f1e6afd "PDF - 1.8 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +46,7 @@ Introduction - _Prof. Leonid Mirny_ (![This resource may not render correctly in
 L1
 {{< tdclose >}}
 {{< tdopen >}}
-The Basic Forces of Evolution: Mutation, Recombination and Mating, Migration, Neutral Evolution and Drift, Effective Population Size ([PDF]({{< baseurl >}}/resources/hst508lecture1))
+The Basic Forces of Evolution: Mutation, Recombination and Mating, Migration, Neutral Evolution and Drift, Effective Population Size ({{% resource_link aad42003-2640-a927-d69d-c1a8b2a08750 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +55,7 @@ The Basic Forces of Evolution: Mutation, Recombination and Mating, Migration, Ne
 L2
 {{< tdclose >}}
 {{< tdopen >}}
-Selection, Fitness, Probability of Fixation, Coalescent Theory (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.3 MB]({{< baseurl >}}/resources/hst2))  
+Selection, Fitness, Probability of Fixation, Coalescent Theory ({{% resource_link af6fd0a7-de74-6088-90ce-33363beb4eb9 "PDF - 3.3 MB" %}})  
   
 Parameter Estimation
 {{< tdclose >}}
@@ -73,7 +79,7 @@ Parameter Estimation
 L3
 {{< tdclose >}}
 {{< tdopen >}}
-Selection, Fitness, and Diffusion Models (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.4 MB]({{< baseurl >}}/resources/hst3))  
+Selection, Fitness, and Diffusion Models ({{% resource_link ee4e8a52-7ff9-e152-a92e-e68740cec345 "PDF - 3.4 MB" %}})  
   
 Molecular Evolution, Jukes-Cantor Model, Kimura Model
 {{< tdclose >}}
@@ -205,7 +211,7 @@ Recitation: SNPs
 L11
 {{< tdclose >}}
 {{< tdopen >}}
-Medical Lecture: Human Variations Genes, Genotypes and Generations - _Dr. Marco Ramoni_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ra_hst508_103105)) (Courtesy of Dr. Marco Ramoni. Used with permission.)
+Medical Lecture: Human Variations Genes, Genotypes and Generations - _Dr. Marco Ramoni_ ({{% resource_link 209007ca-0566-98a9-436b-7eb275e9d891 "PDF" %}}) (Courtesy of Dr. Marco Ramoni. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -220,7 +226,7 @@ Medical Lecture: Human Variations Genes, Genotypes and Generations - _Dr. Marco 
 L12
 {{< tdclose >}}
 {{< tdopen >}}
-Overview of Protein Structures, Domain Architecture (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2 MB]({{< baseurl >}}/resources/lecture_st1))  
+Overview of Protein Structures, Domain Architecture ({{% resource_link 7838ba24-6bd7-086d-80df-be4bfe710c41 "PDF - 1.2 MB" %}})  
   
 Sequence-structure Mapping, Protein Folding, Forces and Interactions
 {{< tdclose >}}
@@ -231,7 +237,7 @@ Sequence-structure Mapping, Protein Folding, Forces and Interactions
 L13
 {{< tdclose >}}
 {{< tdopen >}}
-Structure-based Substitution Matrices (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1 MB]({{< baseurl >}}/resources/lecture_st2))  
+Structure-based Substitution Matrices ({{% resource_link 77a50b1e-7bc8-1253-e3cd-28e7bbf460ea "PDF - 1.1 MB" %}})  
   
 Protein Structure Prediction  
   
@@ -301,7 +307,7 @@ Guest Lecture
 L18
 {{< tdclose >}}
 {{< tdopen >}}
-Gene Regulation and Function, Conservation, Detecting Regulatory Elements (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0 MB]({{< baseurl >}}/resources/hst508_113005_l1))
+Gene Regulation and Function, Conservation, Detecting Regulatory Elements ({{% resource_link 4b4cb3b3-6bad-a851-db21-07c984930cc3 "PDF - 2.0 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -310,7 +316,7 @@ Gene Regulation and Function, Conservation, Detecting Regulatory Elements (![Thi
 L19
 {{< tdclose >}}
 {{< tdopen >}}
-RNA Expression: Clustering and Classification (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.0 MB]({{< baseurl >}}/resources/hst508_120705_l2))
+RNA Expression: Clustering and Classification ({{% resource_link 37e37e56-199b-5657-0dd4-65fd95b94a2a "PDF - 5.0 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -319,7 +325,7 @@ RNA Expression: Clustering and Classification (![This resource may not render co
 L20
 {{< tdclose >}}
 {{< tdopen >}}
-RNA Expression: Classification, 2-way Clustering, Regulatory Modules (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/kho_hst508_lec3))  
+RNA Expression: Classification, 2-way Clustering, Regulatory Modules ({{% resource_link d7c217a3-ac58-a01b-6942-d26c5e60f2fc "PDF" %}})  
   
 Integration of Expression and Proteomic Data
 {{< tdclose >}}

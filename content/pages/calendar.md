@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: The calendar section includes lecture topics covered in the course along
+  with the respective key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: 78077a7a-2812-3c83-4231-dab050c1e643
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The calendar below provides information on the course's lecture (L) and recitation (R) sessions.
