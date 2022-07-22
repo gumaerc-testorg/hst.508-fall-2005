@@ -5,6 +5,7 @@ description: This resource includes information on genetic drift, and Effective 
 file: /courses/hst-508-quantitative-genomics-fall-2005/2f5806e0242979050235b9216b2a5b1b_hstnotes.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes information on genetic drift, and Effective population size.
-

@@ -5,6 +5,7 @@ description: This resource includes information on the significant-digit law, an
 file: /courses/hst-508-quantitative-genomics-fall-2005/2336fc0608052c67fa90a24ddac62f6f_hill_stat_der_96.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes information on the significant-digit law, and its classical explanations.
-

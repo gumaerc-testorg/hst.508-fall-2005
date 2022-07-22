@@ -5,6 +5,7 @@ file: /courses/hst-508-quantitative-genomics-fall-2005/d3632be3d1e29477402c7e5b3
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes special .mat file to support the assignment 1.
-

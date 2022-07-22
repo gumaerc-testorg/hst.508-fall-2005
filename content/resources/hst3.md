@@ -9,6 +9,7 @@ file: /courses/hst-508-quantitative-genomics-fall-2005/ee4e8a527ff9e152a92ee6874
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes information on the basic forces of evolution; neutral evolution and drift, computing ?gene geneaologies? forwards and backwards; the coalescent, coalescent extensions and natural selection and its discontents, and detecting selection: Molecular evolution; from classical methods to modern  statistical inference techniques.
-

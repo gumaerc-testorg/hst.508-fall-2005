@@ -5,6 +5,7 @@ file: /courses/hst-508-quantitative-genomics-fall-2005/9d824d6dc071c7bb4ec089b92
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: parseBLATAlignment.m
 uid: 9d824d6d-c071-c7bb-4ec0-89b920becfc1
 ---
 This resource includes special .m file to support the assignment 1.
-

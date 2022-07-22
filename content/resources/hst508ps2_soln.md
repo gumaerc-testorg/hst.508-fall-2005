@@ -6,6 +6,7 @@ file: /courses/hst-508-quantitative-genomics-fall-2005/04354e864afe987779bfb4276
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes the solutions to the problems listed in problem set 1.
-

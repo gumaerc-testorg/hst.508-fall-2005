@@ -5,6 +5,7 @@ file: /courses/hst-508-quantitative-genomics-fall-2005/70b03bb70fd6dc3c171a03eda
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: F10Human.txt
 uid: 70b03bb7-0fd6-dc3c-171a-03edaa299a07
 ---
 This resource includes special .txt file to support the assignment.
-

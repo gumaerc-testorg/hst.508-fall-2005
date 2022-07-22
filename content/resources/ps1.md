@@ -7,6 +7,7 @@ file: /courses/hst-508-quantitative-genomics-fall-2005/f6985ca428582a59cd200d7fd
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes information on effect of mutations and selection on allele frequency, mean time to fixation or loss, and testing neutrality of human SNPs.
-
