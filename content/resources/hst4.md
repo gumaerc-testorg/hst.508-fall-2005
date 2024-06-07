@@ -4,6 +4,7 @@ description: 'This resource includes information on natural selection: from the 
   dynamical system equation to the diffusion approximation: how can genes survive?
   and how can we detect selection in our data?'
 file: /courses/hst-508-quantitative-genomics-fall-2005/7213211fc40913d02d9f14e5de73c3cd_hst4.pdf
+file_size: 3897985
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
