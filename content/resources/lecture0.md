@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/hst-508-quantitative-genomics-fall-2005/c1ea2b21f7059e7b86c944072f1e6afd_lecture0.pdf
+file_size: 1844782
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
