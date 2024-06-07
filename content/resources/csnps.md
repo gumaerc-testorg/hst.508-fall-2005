@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes special .txt file to support the assignment 1.
 file: /courses/hst-508-quantitative-genomics-fall-2005/99ba3c4691888745c303b551a764e143_cSNPs.txt
+file_size: 4439346
 file_type: text/plain
 learning_resource_types:
 - Assignments

@@ -4,6 +4,7 @@ description: This resource includes information on effect of mutations and selec
   on allele frequency, mean time to fixation or loss, and testing neutrality of human
   SNPs.
 file: /courses/hst-508-quantitative-genomics-fall-2005/f6985ca428582a59cd200d7fddf167b4_ps1.pdf
+file_size: 42273
 file_type: application/pdf
 learning_resource_types:
 - Assignments

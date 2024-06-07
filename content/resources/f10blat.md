@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes special .txt file to support the assignment.
 file: /courses/hst-508-quantitative-genomics-fall-2005/c7832923cdc5cf1ffc01f2739bda0601_F10Blat.txt
+file_size: 6371
 file_type: text/plain
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/hst-508-quantitative-genomics-fall-2005/193cec7837403b95f38f1e46a1a275eb_chp_image.jpg
+file_size: 51248
 file_type: image/jpeg
 image_metadata:
   caption: ''
