@@ -7,7 +7,7 @@ description: 'This resource includes information on the basic forces of evolutio
   and phylogenetic analysis and measuring selection: from classical methods to modern
 
   statistical inference techniques.'
-file: /courses/hst-508-quantitative-genomics-fall-2005/af6fd0a7de74608890ce33363beb4eb9_hst2.pdf
+file: /ol-ocw-studio-app/courses/hst-508-quantitative-genomics-fall-2005/af6fd0a7de74608890ce33363beb4eb9_hst2.pdf
 file_size: 3506558
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes special .m file to support the assignment 1.
-file: /courses/hst-508-quantitative-genomics-fall-2005/9d824d6dc071c7bb4ec089b920becfc1_parseBLATAlignment.m
+file: /ol-ocw-studio-app/courses/hst-508-quantitative-genomics-fall-2005/9d824d6dc071c7bb4ec089b920becfc1_parseBLATAlignment.m
 file_size: 2115
 file_type: text/plain
 learning_resource_types:
