@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes solution for the problems listed in problem set
   1.
-file: /courses/hst-508-quantitative-genomics-fall-2005/595fba9e04526e361785782b5395a5a0_hst508ps1_soln.pdf
+file: /ol-ocw-studio-app/courses/hst-508-quantitative-genomics-fall-2005/595fba9e04526e361785782b5395a5a0_hst508ps1_soln.pdf
 file_size: 157082
 file_type: application/pdf
 learning_resource_types:
