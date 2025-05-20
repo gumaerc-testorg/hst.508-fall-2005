@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on iconic study.
-file: /ol-ocw-studio-app/courses/hst-508-quantitative-genomics-fall-2005/aad420032640a927d69dc1a8b2a08750_hst508lecture1.pdf
+file: /courses/hst-508-quantitative-genomics-fall-2005/aad420032640a927d69dc1a8b2a08750_hst508lecture1.pdf
 file_size: 611666
 file_type: application/pdf
 learning_resource_types:

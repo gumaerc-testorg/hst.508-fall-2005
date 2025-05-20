@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes special .txt file to support the assignment.
-file: /ol-ocw-studio-app/courses/hst-508-quantitative-genomics-fall-2005/70b03bb70fd6dc3c171a03edaa299a07_F10Human.txt
+file: /courses/hst-508-quantitative-genomics-fall-2005/70b03bb70fd6dc3c171a03edaa299a07_F10Human.txt
 file_size: 1487
 file_type: text/plain
 learning_resource_types:
