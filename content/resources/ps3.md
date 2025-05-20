@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/hst-508-quantitative-genomics-fall-2005/5858fdaecb020b1e778e32ba49b5b3e2_ps3.pdf
+file: /courses/hst-508-quantitative-genomics-fall-2005/5858fdaecb020b1e778e32ba49b5b3e2_ps3.pdf
 file_size: 113320
 file_type: application/pdf
 learning_resource_types:

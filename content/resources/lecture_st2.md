@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource inculdes information on thermodynamics, solvent, biomolecular
   forces, protein folding problem, solving the Levinthal paradox, and Anfinsen experiment.
-file: /ol-ocw-studio-app/courses/hst-508-quantitative-genomics-fall-2005/77a50b1e7bc81253e3cd28e7bbf460ea_lecture_st2.pdf
+file: /courses/hst-508-quantitative-genomics-fall-2005/77a50b1e7bc81253e3cd28e7bbf460ea_lecture_st2.pdf
 file_size: 1135478
 file_type: application/pdf
 learning_resource_types:

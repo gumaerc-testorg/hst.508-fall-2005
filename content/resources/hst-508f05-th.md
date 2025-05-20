@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /ol-ocw-studio-app/courses/hst-508-quantitative-genomics-fall-2005/addec90c20afae00c7cca1d3bec05242_hst-508f05-th.jpg
+file: /courses/hst-508-quantitative-genomics-fall-2005/addec90c20afae00c7cca1d3bec05242_hst-508f05-th.jpg
 file_size: 12935
 file_type: image/jpeg
 image_metadata:

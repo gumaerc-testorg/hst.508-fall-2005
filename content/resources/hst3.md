@@ -5,7 +5,7 @@ description: 'This resource includes information on the basic forces of evolutio
   the coalescent, coalescent extensions and natural selection and its discontents,
   and detecting selection: Molecular evolution; from classical methods to modern  statistical
   inference techniques.'
-file: /ol-ocw-studio-app/courses/hst-508-quantitative-genomics-fall-2005/ee4e8a527ff9e152a92ee68740cec345_hst3.pdf
+file: /courses/hst-508-quantitative-genomics-fall-2005/ee4e8a527ff9e152a92ee68740cec345_hst3.pdf
 file_size: 3516408
 file_type: application/pdf
 learning_resource_types:
