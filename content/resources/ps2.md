@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on kmura 2-parameter model.
-file: /courses/hst-508-quantitative-genomics-fall-2005/a657389bb6b4653aca1950de8d8725cf_ps2.pdf
+file: /ol-ocw-studio-app/courses/hst-508-quantitative-genomics-fall-2005/a657389bb6b4653aca1950de8d8725cf_ps2.pdf
 file_size: 32900
 file_type: application/pdf
 learning_resource_types:
