@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes special .pbp file to support the assignment.
-file: /courses/hst-508-quantitative-genomics-fall-2005/0aae273d30b0c2afa032264426f250b2_SerProteases_PS3.pdb
+file: /ol-ocw-studio-app/courses/hst-508-quantitative-genomics-fall-2005/0aae273d30b0c2afa032264426f250b2_SerProteases_PS3.pdb
 file_size: 410336
 file_type: text/plain
 learning_resource_types:
