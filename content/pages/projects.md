@@ -66,13 +66,13 @@ Some questions:
 
 1.  What is a reasonable dissimilarity measure to use in this problem? Or a measure of cluster / partition membership discrepancies between B and T?
 2.  How does the distribution of dissimilarity measures between all gene pairs look like? Are gene (pairs) at the tail ends of the distribution enriched for specific ontologic categories, chromosomal loci/location, or sequential motifs? For example, is there a higher likelihood for gene pairs which occupy common loci to live in the same clusters in B and T?
-3.  Dataset B: {{% resource_link "963d3da6-05e0-4720-a126-73f77d1d339b" "GDS44" %}} and {{% resource_link "bcf14c3c-74ed-4f3f-90f6-7650780c53b6" "GDS52" %}}. Dataset T: {{% resource_link "aa84969f-b18b-41f3-9b79-d27f3a3692b6" "GDS237" %}} and {{% resource_link "a8df9ff6-affc-4ddc-82c1-c2f45f515b11" "GDS257" %}}.
+3.  Dataset B: [GDS44](http://www.ncbi.nlm.nih.gov/geo/gds/gds_browse.cgi?gds=44) and [GDS52](http://www.ncbi.nlm.nih.gov/geo/gds/gds_browse.cgi?gds=52). Dataset T: [GDS237](http://www.ncbi.nlm.nih.gov/geo/gds/gds_browse.cgi?gds=237) and [GDS257](http://www.ncbi.nlm.nih.gov/geo/gds/gds_browse.cgi?gds=257).
 
 ### Project 3
 
 Bioinformatically characterize in trisomy 21 transcriptome datasets the interactions between presence of an extra chromosome 21 and loci of non-21 chromosomes in mouse and human. The general question is to assess the likelihood of an extra Chr: 21 affecting homologous genes in human and mouse, and to check whether a gene's chromosomal location is a modulating factor in its interaction with a Chr: 21 gene. Construct and justify a rational approach to resolving this problem.
 
-1.  Human trisomy 21, {{% resource_link "8cb45e94-f45c-4dfe-ab9e-5693eac3ed10" "GSE1397" %}} mouse trisomy 21, {{% resource_link "66fe3abd-bf20-45e4-8f83-a5f9a0761f50" "GDS681" %}} {{% resource_link "7325fd92-98a4-48c1-b4a9-b981dc3f511f" "GDS682" %}}
+1.  Human trisomy 21, [GSE1397](http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE1397) mouse trisomy 21, [GDS681](http://www.ncbi.nlm.nih.gov/geo/gds/gds_browse.cgi?gds=681) [GDS682](http://www.ncbi.nlm.nih.gov/geo/gds/gds_browse.cgi?gds=682)
 
 Project Assignments by Prof. Sunyaev (Courtesy of Prof. Shamil R. Sunyaev. Used with permission.)
 -------------------------------------------------------------------------------------------------
