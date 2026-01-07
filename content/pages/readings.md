@@ -18,11 +18,11 @@ Recommended Texts and Articles
 
 Hartl, Daniel L._A Primer of Population Genetics_. 3rd ed. Sunderland, MA: Sinauer Associates, 2000. ISBN: 9780878933044.
 
-Watson, James D., Tania Baker, Stephen Bell, Alexander Gann, Michael Levine, and Richard Losick. {{% resource_link "7c9cd1c2-3734-4b6d-aeb3-b92184a90167" "_Molecular Biology of the Gene_" %}}. 5th ed. San Francisco, CA: Pearson/Benjamin Cummings, 2003. ISBN: 9780805346350.
+Watson, James D., Tania Baker, Stephen Bell, Alexander Gann, Michael Levine, and Richard Losick. [_Molecular Biology of the Gene_](https://www.amazon.com/Molecular-Biology-Gene-James-Watson/dp/080539592X). 5th ed. San Francisco, CA: Pearson/Benjamin Cummings, 2003. ISBN: 9780805346350.
 
- Strachan, Tom, and Andrew P. Read. {{% resource_link "c0c6f7ca-5e38-4334-b5a6-6b64caa2f9bd" "_Human Molecular Genetics_" %}}_._ 2nd ed. New York, NY: Wiley, 1999. ISBN: 9780471330615.
+ Strachan, Tom, and Andrew P. Read. [_Human Molecular Genetics_](http://hmg.oxfordjournals.org/)_._ 2nd ed. New York, NY: Wiley, 1999. ISBN: 9780471330615.
 
-Koonin, Eugene V. Galperin, and Michael Y. Norwell. {{% resource_link "cc983fd8-0919-4c30-94e7-a70a6aff831d" "_Sequence - Evolution - Function: Computational Approaches in Comparative Genomics_" %}}. New York, NY: Springer, 2002. ISBN: 9781402072741.
+Koonin, Eugene V. Galperin, and Michael Y. Norwell. [_Sequence - Evolution - Function: Computational Approaches in Comparative Genomics_](http://www.ncbi.nlm.nih.gov/books/bv.fcgi?call=bv.View..ShowTOC&rid=sef.TOC&depth=10). New York, NY: Springer, 2002. ISBN: 9781402072741.
 
  Li, Wen-Hsiung._Molecular Evolution_. Sunderland, MA: Sinauer Associates, 1997. ISBN: 9780878934638.
 
@@ -43,9 +43,9 @@ Gould, Stephen Jay, and Richard C. Lewontin. "The Spandrels of San Marco and the
 
 Korbel, J. O., L. J. Jensen, Mering C. Von, and P. Bork. "Analysis of genomic context: Prediction of functional associations from conserved bidirect." _Nat Biotechnol_ 22, no. 7 (July 2004): 911-7.
 
-Pellegrini, M., E. M. Marcotte, M. J. Thompson, D. Eisenberg, and T. O. Yeates. "{{% resource_link "fbb52400-84e5-422b-aa23-a463c4680c80" "Assigning protein functions by comparative genome analysis: Protein phylogenetic profiles" %}}." _Proc Natl Acad Sci U.S.A._ 96, no. 8 (April 13, 1999): 4285-8.
+Pellegrini, M., E. M. Marcotte, M. J. Thompson, D. Eisenberg, and T. O. Yeates. "[Assigning protein functions by comparative genome analysis: Protein phylogenetic profiles](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=10200254&query_hl=5)." _Proc Natl Acad Sci U.S.A._ 96, no. 8 (April 13, 1999): 4285-8.
 
-Sonnhammer, E. L., S. R. Eddy, E. Birney, A. Bateman, and R. Durbin. "{{% resource_link "3dba981d-5010-42c8-853d-5b0a9be3e1da" "Pfam: Multiple sequence alignments and HMM-profiles of protein domains" %}}." _Nucleic Acids Res_ 26, no. 1 (January 1, 1998): 320-2.
+Sonnhammer, E. L., S. R. Eddy, E. Birney, A. Bateman, and R. Durbin. "[Pfam: Multiple sequence alignments and HMM-profiles of protein domains](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=9399864&query_hl=15)." _Nucleic Acids Res_ 26, no. 1 (January 1, 1998): 320-2.
 
 ### Medical Lecture 2 (Dr. Marco Ramoni)
 
@@ -60,6 +60,6 @@ Turing, A. M. "The Chemical Basis of Morphogenesis Philosophical Transactions of
 Online Resources
 ----------------
 
-{{% resource_link "761ccb77-6ac6-4083-97a8-3773658469b2" "A Population Genetics Primer Online" %}}
+[A Population Genetics Primer Online](http://en.wikipedia.org/wiki/Population_genetics)
 
-{{% resource_link "b4497c65-3d3f-40cf-a26e-db8399b5dd17" "Pfam Database" %}}
+[Pfam Database](http://pfam.xfam.org/)
